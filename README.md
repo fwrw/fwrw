@@ -1,10 +1,20 @@
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=fwrw&hide_title=false&hide_rank=true&show_icons=false&include_all_commits=true&count_private=true&disable_animations=false&theme=gotham&locale=en&hide_border=true" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=fwrw&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=gotham&hide_border=true" height="150" alt="languages graph"  />
-</div>
+
+<br clear="both">
+
+<img align="right" height="180" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExYjc5MXRnNjJvdnFsczMzdGpvYmxwN2lvNGdmdjIyMmhiN2U5YXBhdiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/g7oEg8g2jukE0/giphy.gif"  />
 
 ###
 
-<img align="right" height="200" src="https://i.pinimg.com/564x/bf/6c/bf/bf6cbfe33106bea53f0e3e6098869dfe.jpg"  />
+<h3 align="left"> 🌟 Olá, meu nome é Rafael </h3>
+<p align="left">Tenho 20 anos e atualmente sou estudante de T.I no IFPE</p>
 
-###
+<h3 align="left">💡 Interesses </h3>
+<ul>
+<li>Backend development 💻 </li>
+<li>Cybersecurity 🔒 </li>
+<li> Artificial Intelligence 🤖</li>
+</ul> 
+
+ ### 🪢 Redes sociais
+  📷[Instagram](https://www.instagram.com/ravinikov/) 
+  📋[LinkedIn](https://www.linkedin.com/notifications/?filter=all)
