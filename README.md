@@ -1,5 +1,5 @@
 
-<img align="right" height="280" src="https://raw.githubusercontent.com/fwrw/fwrw/main/goku-gif.gif"  />
+<img align="right" height="250" src="https://raw.githubusercontent.com/fwrw/fwrw/main/goku-gif.gif"  />
 
 ###
 
