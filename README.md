@@ -21,6 +21,8 @@
 
  ### 🎓 Certs:
   🧢[Red Hat System Administration I (RH124)](https://github.com/fwrw/fwrw/blob/main/Certificate%20of%20Attendance%20(RH124-9.0).pdf) 
+  🧢[Red Hat System Administration II (RH134)](https://github.com/fwrw/fwrw/blob/main/Certificate%20of%20Attendance%20(RH134-9.0).pdf) 
+  
 
 
 
