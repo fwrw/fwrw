@@ -4,7 +4,7 @@
 ###
 
 <h3 align="left">  🌟 Hello there  </h3>
-<p align="left">My name is Rafael, i'm 20yo and currently a student at IFPE 🇧🇷 </p>
+<p align="left">My name is Rafael, i'm 21yo and currently a student at IFPE 🇧🇷 </p>
 
 <h3 align="left">💡 What i'm into: </h3>
 <ul>
